@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![7seg_scoreboard demo](img/remo.png)]()
+[![7seg_scoreboard demo](img/demo.jpg)]()
 
 The 7seg_scoreboard brightly displays each team's score so you don't have to struggle to remember yourself.
 
