@@ -31,13 +31,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![7seg_scoreboard demo](img/demo.jpg)]()
-
 The 7seg_scoreboard brightly displays each team's score so you don't have to struggle to remember yourself.
 
 The bright LEDs are arranged in a 7 segment pattern. There are buttons to increment and decrement each team's score on the back of the scoreboard, as well as reset the game back to 0's.
 
 The intention is to have a wireless remote that's easily accessible on your person even while playing to control the scoreboard as well.
+
+[![7seg_scoreboard digit](img/demo.jpg)]()
+
+[![7seg_scoreboard full](img/20190602_183217.png)]()
 
 <!-- ### Built With
 
